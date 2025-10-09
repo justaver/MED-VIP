@@ -1,1 +1,1 @@
-# MED-VIP
+# MED-VIP (Vertically Intergrated Project)
